@@ -1,0 +1,14 @@
+{
+  "name": "dr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stanislav Postnikov mirudistok32",
+  "license": "ISC",
+  "dependencies": {
+    "materialize-css": "^1.0.0"
+  }
+}
