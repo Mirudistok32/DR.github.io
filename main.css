@@ -132,39 +132,38 @@ h1:hover {
   border-bottom: 4px solid salmon;
 }
 
-@media(max-width: 500px) {
-  h1{
+@media (max-width: 500px) {
+  h1 {
     font-size: 21px;
   }
-  p{
+  p {
     font-size: 18px;
     line-height: 28px;
   }
   .writeModal h1 {
     font-size: 44px;
   }
- 
 }
-@media(max-width: 375px){
+@media (max-width: 375px) {
   .writeModal h1 {
     font-size: 32px;
   }
-  .writeModal__btn{
+  .writeModal__btn {
     height: 50px;
     font-size: 32px;
   }
 }
-@media(max-width: 320px) {
-  h1{
+@media (max-width: 320px) {
+  h1 {
     font-size: 18px;
   }
-  p{
+  p {
     font-size: 16px;
   }
   .writeModal h1 {
     font-size: 28px;
   }
-  .writeModal__btn{
+  .writeModal__btn {
     height: 50px;
     font-size: 28px;
   }
