@@ -140,6 +140,19 @@ h1:hover {
     font-size: 18px;
     line-height: 28px;
   }
+  .writeModal h1 {
+    font-size: 44px;
+  }
+ 
+}
+@media(max-width: 375px){
+  .writeModal h1 {
+    font-size: 32px;
+  }
+  .writeModal__btn{
+    height: 50px;
+    font-size: 32px;
+  }
 }
 @media(max-width: 320px) {
   h1{
@@ -147,5 +160,12 @@ h1:hover {
   }
   p{
     font-size: 16px;
+  }
+  .writeModal h1 {
+    font-size: 28px;
+  }
+  .writeModal__btn{
+    height: 50px;
+    font-size: 28px;
   }
 }
